@@ -1,0 +1,6 @@
+{
+  "name": "Bite Box",
+  "description": "Fast food cafe in F-7 Markaz Islamabad serving fresh gourmet burgers, wraps, loaded fries, and meal combos with fast WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
